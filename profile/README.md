@@ -1,8 +1,9 @@
-![Brandmark](https://github.com/Missing-Semicolon-Studio/.github/assets/100683747/e642d6b6-5df4-4f1a-8409-4f6d328a4543)<center>
 
-# // Missing Semiolon Studio //
+<center>
+
+# // Missing Semicolon Studio //
 ## Where Ideas = Reality 🔥
-![Uploading Br<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+![Brandmark](https://github.com/Missing-Semicolon-Studio/.github/assets/100683747/e642d6b6-5df4-4f1a-8409-4f6d328a4543)
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
